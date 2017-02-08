@@ -4,8 +4,6 @@ import android.app.Activity;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
-import android.os.Looper;
-import android.preference.Preference;
 import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuInflater;
